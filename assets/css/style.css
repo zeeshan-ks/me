@@ -34,6 +34,7 @@ body {
   font-size: 14px;
   color: #282828;
   background-color: #fff;
+  background: url(../../assets/images/service-bg.jpg) repeat;
   -webkit-text-size-adjust: 100%;
   -webkit-overflow-scrolling: touch;
   -webkit-font-smoothing: antialiased !important;
@@ -336,6 +337,13 @@ ul.list-check li::before {
   line-height: 80px;
   margin-bottom: 16px;
   color: #52b3d9;
+}
+
+.intro h2 {
+  font-size: 40px;
+  line-height: 45px;
+  margin-bottom: 100px;
+  color: #ffffff;
 }
 
 .intro h1 span {
